@@ -1,0 +1,3 @@
+INSERT INTO Funcionario (nome, cpf, cargo, salario, data_Ultimo_Reajuste) VALUES ('Pedro', '333.444.555-66', 1, 5000, TIMESTAMP WITH TIME ZONE '2023-01-01T20:50:07.12345Z');
+INSERT INTO Funcionario (nome, cpf, cargo, salario, data_Ultimo_Reajuste) VALUES ('João', '333.444.555-66', 2, 3000, TIMESTAMP WITH TIME ZONE '2022-07-13T20:50:07.12345Z');
+INSERT INTO Funcionario (nome, cpf, cargo, salario, data_Ultimo_Reajuste) VALUES ('Pedro', '333.444.555-66', 3, 2000, TIMESTAMP WITH TIME ZONE '2022-07-13T20:50:07.12345Z');
